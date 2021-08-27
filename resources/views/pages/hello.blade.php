@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hello World Ini perubahan</h1>
+    <h1>Hello World Ini perubahan ke 2</h1>
     <p>
         Hello, {{ $data->nama }}
     </p>
